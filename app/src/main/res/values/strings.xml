@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Loan</string>
+    <string name="carPrice" />
+    <string name="downPay" />
+    <string name="loanPeriod" />
+    <string name="intRate" />
+    <string name="Interest" />
+    <string name="CarLoan" />
+    <string name="Repay" />
+    <string name="carprice">Car Price:</string>
+    <string name="downpay">Down Payment Amount:</string>
+    <string name="loanpay">Loan Period:</string>
+    <string name="intrate">Interest Rate:</string>
+    <string name="monthrepay">Monthly Repayment:</string>
+    <string name="interest">Interest:</string>
+    <string name="carloann">Car Loan:</string>
+</resources>
